@@ -8,13 +8,13 @@ class HomePage extends StatelessWidget {
   const HomePage({super.key});
   final List<TuneModel> tunes = const
   [
-    TuneModel(color: Color(0xffF44336), sound: 'note1.wav'),
-    TuneModel(color: Color(0xffF89800), sound: 'note2.wav'),
-    TuneModel(color: Color(0xffFEEB3B), sound: 'note3.wav'),
-    TuneModel(color: Color(0xff4CAF50), sound: 'note4.wav'),
-    TuneModel(color: Color(0xff2F9688), sound: 'note5.wav'),
+    TuneModel(color: Color(0xffec1d0e), sound: 'note1.wav'),
+    TuneModel(color: Color(0xff1a1816), sound: 'note2.wav'),
+    TuneModel(color: Color(0xff4d4c41), sound: 'note3.wav'),
+    TuneModel(color: Color(0xff095bd3), sound: 'note4.wav'),
+    TuneModel(color: Color(0xff8eb2ad), sound: 'note5.wav'),
     TuneModel(color: Color(0xff2896F3), sound: 'note6.wav'),
-    TuneModel(color: Color(0xff9C27B0), sound: 'note7.wav'),
+    TuneModel(color: Color(0xff3dff00), sound: 'note7.wav'),
 
   ];
   @override
